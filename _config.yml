@@ -5,9 +5,9 @@ email: your-email@yourdomain.com
 description: "Just about me !"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: jeanfrancis
+github_username:  jeanfrancis
+facebook_username:  
 
 # Build settings
 markdown: kramdown
